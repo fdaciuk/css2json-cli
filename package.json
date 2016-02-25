@@ -1,0 +1,23 @@
+{
+  "name": "css2json-cli",
+  "version": "0.1.0",
+  "description": "Convert CSS string to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdaciuk/css2json-cli.git"
+  },
+  "keywords": [
+    "css",
+    "json"
+  ],
+  "author": "Fernando Daciuk - @fdaciuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdaciuk/css2json-cli/issues"
+  },
+  "homepage": "https://github.com/fdaciuk/css2json-cli#readme"
+}
