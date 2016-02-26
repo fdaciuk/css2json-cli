@@ -1,6 +1,6 @@
 {
   "name": "css2json-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert CSS string to JSON",
   "main": "index.js",
   "scripts": {
